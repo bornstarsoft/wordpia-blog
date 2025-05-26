@@ -1,0 +1,10 @@
+
+baseURL = "https://wordpia-blog.pages.dev/"
+languageCode = "en-us"
+title = "Wordpia Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
